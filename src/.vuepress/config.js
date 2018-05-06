@@ -6,9 +6,10 @@ module.exports = {
   ],
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Projects', link: '/projects/' },
-      { text: 'Contact', link: '/contact/' },
+      { text: 'Top', link: '/' },
+      { text: '配属希望の方へ', link: '/for3rd/' },
+      { text: 'プロジェクト', link: '/projects/' },
+      { text: '連絡先', link: '/contact/' },
     ]
   }
 }
