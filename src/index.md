@@ -1,7 +1,7 @@
 <p style="text-align: center; font-size: 150%; font-weight: 300;">なぜ日本のIT技術は振るわないのか?<br>それは、本来不可欠なはずの要素が欠けているからです。</p>
 
 <div style="text-align: center">
-  <img src="./triangle.png" style="width: 50%;">
+  <img src="./triangle.png" style="width: 30%;">
 </div>
 
 思いついたアイディアを生かす道は、研究だけとは限りません。開発によって生かされるアイディア、ビジネスによって生かされるアイディアもあります。
