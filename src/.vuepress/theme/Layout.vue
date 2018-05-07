@@ -17,6 +17,7 @@
       <slot name="page-top" slot="top"/>
       <slot name="page-bottom" slot="bottom"/>
     </Page>
+    <Footer/>
   </div>
 </template>
 
@@ -27,11 +28,12 @@ import Home from './Home.vue'
 import Navbar from './Navbar.vue'
 import Page from './Page.vue'
 import Sidebar from './Sidebar.vue'
+import Footer from './Footer.vue'
 import { pathToComponentName } from '@app/util'
 import { resolveSidebarItems } from './util'
 
 export default {
-  components: { Home, Page, Sidebar, Navbar },
+  components: { Home, Page, Sidebar, Navbar, Footer },
   data () {
     return {
       isSidebarOpen: false
