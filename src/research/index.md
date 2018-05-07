@@ -22,6 +22,6 @@ IoTアプリケーションを実行しているクラウドにおける資源�
 
 以上の研究は、アイディアをまとめた後は、海外企業や開発コミュニティへの提案を行うことを目標としています。
 
-![SOSP 2017 Alice Ferrazziのポスター発表](./alice.jpg)  
+[SOSP 2017 Alice Ferrazziのポスター発表](./alice.jpg)  
 
 Alice FerrazziはGentoo LinuxのKernel Leedで、田胡研OGです。
