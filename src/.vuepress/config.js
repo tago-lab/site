@@ -1,6 +1,7 @@
 module.exports = {
   title: "東京工科大学 田胡研究室",
   description: "東京工科大学 コンピュータサイエンス学部田胡研究室のページです。",
+  ga: "UA-118878992-1",
   head: [
     ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/earlyaccess/mplus1p.css' }],
     ['link', { rel: 'icon', href: '/favicon.png', type: 'image/png' }]
