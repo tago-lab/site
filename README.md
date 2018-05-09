@@ -12,6 +12,13 @@ $ npm run dev
 
 `http://localhost:8080`にブラウザでアクセスするとサイトが表示されます。
 
+## ビルド方法
+```sh
+$ npm run build
+```
+
+以上のコマンドを実行すると`src/.vuepress/dist`以下にビルドの成果物が出力されます。
+
 ## 更新方法
 `src`以下に配置したMarkdownファイルをビルドの際に自動的にHTMLに変換します。`index.md`または`README.md`という名前で保存するとディレクトリのトップのページになります。(`src/hoge/index.md`に保存したファイルは`/hoge/`で閲覧することができます。)
 
