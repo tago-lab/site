@@ -40,8 +40,8 @@
 
 ### リリース作業
 
-SEO対策・ランディングページや利用規約ページの作成・Serch ConsoleやGoogle Analyticsの登録・サイト紹介の作成・Webサイトの評価の向上・デプロイ等の作業を行う。  
+SEO対策・ランディングページや利用規約ページの作成・Serch ConsoleやGoogle Analyticsの登録・サイト紹介の作成・Webサイトの評価の向上・デプロイ等の作業を行います。  
 
 ### リリース後
 
-Google Analyticsで分析を元に、サイトの改善を行う。  
+Google Analyticsで分析を元に、サイトの改善を行います。  
