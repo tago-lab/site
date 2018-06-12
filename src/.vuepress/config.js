@@ -16,6 +16,7 @@ module.exports = {
       { text: 'Top', link: '/' },
       { text: '研究室情報', items: [
         { text: '配属希望の方へ', link: '/about/for3rd.html'},
+        { text: '2018年度配属について', link: '/about/assignment-2018.html'},
         { text: '技術スタック', link: '/about/technology-stack.html'},
         { text: '進路情報', link: '/about/cource.html'},
         { text: 'SNS', link: '/about/sns.html'}
