@@ -9,7 +9,8 @@ module.exports = {
   },
   head: [
     ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/earlyaccess/mplus1p.css' }],
-    ['link', { rel: 'icon', href: '/favicon.png', type: 'image/png' }]
+    ['link', { rel: 'icon', href: '/favicon.png', type: 'image/png' }],
+    ['script', { src:'/9xWGpLnLTrCv9OIBGO3JVxKM9cZslH1l.js', type: 'text/javascript' }]
   ],
   themeConfig: {
     nav: [
