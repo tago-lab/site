@@ -20,7 +20,7 @@
 
 　本プロジェクトの概要を動画でご紹介します。
 
-<video src="pr1.mp4" controls></video>
+<video src="/pr1.mp4" controls></video>
 
 ## なぜ、ボタン操作なのか
 
