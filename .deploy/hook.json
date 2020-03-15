@@ -1,8 +1,8 @@
 [
     {
       "id": "webhook",
-      "execute-command": "/src/.deploy/deploy.sh",
-      "command-working-directory": "/src",
+      "execute-command": "/srv/site/.deploy/deploy.sh",
+      "command-working-directory": "/srv/site",
       "response-message": "OK",
       "response-headers":
       [
