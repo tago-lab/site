@@ -14,7 +14,7 @@
 データ書き込みに制約を設けることで、既存のキャッシュ技術を使ったパフォーマンス改善が出来る仕組みになっています。
 大規模KubernetesクラスタやFaaS基盤でのイメージ共有、もしくはFogコンピューティング環境でのデータ共有基盤としての利用を想定しています。
 
-開発リポジトリ: [elton-project/elton](https://github.com/elton-project)
+開発リポジトリ: [elton-project/elton](https://github.com/elton-project/elton)
 
 ## goapptraceプロジェクト
 Go言語を用いた大規模なソフトウェア開発を可能にする、トレーサーを開発しています。
