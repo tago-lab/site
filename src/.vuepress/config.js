@@ -14,14 +14,18 @@ module.exports = {
   ],
   themeConfig: {
     nav: [
-      { text: 'Top', link: '/' },
+      { text: '配属希望の方へ', link: '/about/for3rd.html'},
       { text: '研究室情報', items: [
-        { text: '配属希望の方へ', link: '/about/for3rd.html'},
         { text: '技術スタック', link: '/about/technology-stack.html'},
         { text: '進路情報', link: '/about/cource.html'},
         { text: 'SNS', link: '/about/sns.html'}
       ] },
-      { text: 'プロジェクト', link: '/projects/' },
+      { text: '活動内容', items: [
+        { text: 'プロジェクト紹介', link: '/projects/' },
+        { text: '技術研究', link: '/research/' },
+        { text: 'ソフトウェア開発', link: '/development/' },
+        { text: 'ビジネス', link: '/business/' },
+      ] },
       { text: '連絡先', link: '/contact/' },
     ]
   }
