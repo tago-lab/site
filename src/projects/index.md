@@ -16,8 +16,3 @@
 
 開発リポジトリ: [elton-project/elton](https://github.com/elton-project/elton)
 
-## goapptraceプロジェクト
-Go言語を用いた大規模なソフトウェア開発を可能にする、トレーサーを開発しています。
-
-参考サイト: [yuuki0xff/goapptrace: function call tracer for golang](https://github.com/yuuki0xff/goapptrace)
-
