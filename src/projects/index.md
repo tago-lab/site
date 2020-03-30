@@ -9,10 +9,10 @@
 ## ビジネスプロジェクト
 エンジニアを対象としたビジネススキル得支援法を検討し、実際に育成プログラムを提供しています。
 
-## goapptraceプロジェクト
-Go言語を用いた大規模なソフトウェア開発を可能にする、トレーサーを開発しています。
+## Elton
+データ読み込みの性能の向上を目的とした「広域分散ファイルシステム Elton」を開発しています。
+データ書き込みに制約を設けることで、既存のキャッシュ技術を使ったパフォーマンス改善が出来る仕組みになっています。
+大規模KubernetesクラスタやFaaS基盤でのイメージ共有、もしくはFogコンピューティング環境でのデータ共有基盤としての利用を想定しています。
 
-参考サイト: [yuuki0xff/goapptrace: function call tracer for golang](https://github.com/yuuki0xff/goapptrace)
+開発リポジトリ: [elton-project/elton](https://github.com/elton-project/elton)
 
-## Elton    
-Kubertenes等の、Dockerクラスタで使用されることを想定した、write onceレコード方式の分散ストレージ機構の研究・開発を行っています。

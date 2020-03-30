@@ -1,0 +1,13 @@
+version: '3'
+services:
+    site:
+        build: .
+        container_name: tlab_site
+        restart: unless-stopped
+        ports:
+            - 19000:3000
+        logging:
+            driver: "json-file"
+            options:
+                max-size: "50m"
+                max-file: "3"
