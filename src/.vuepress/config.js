@@ -21,7 +21,6 @@ module.exports = {
         { text: 'SNS', link: '/about/sns.html'}
       ] },
       { text: '活動内容', items: [
-        { text: 'プロジェクト紹介', link: '/projects/' },
         { text: '技術研究', link: '/research/' },
         { text: 'ソフトウェア開発', link: '/development/' },
         { text: 'ビジネス', link: '/business/' },
