@@ -8,7 +8,7 @@ RUN npm i -g http-server
 WORKDIR /app
 
 ADD package.json .
-# ADD package-lock.json .
+ADD package-lock.json .
 RUN npm i
 
 ADD . .
