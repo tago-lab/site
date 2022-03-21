@@ -1,4 +1,4 @@
-FROM node:10.0-slim
+FROM node:16.14.0-slim
 MAINTAINER Kota Nonaka <kota.kaicho@gmail.com>
 
 ENV PORT 3000
