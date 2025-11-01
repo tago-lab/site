@@ -1,5 +1,4 @@
-FROM node:16.14.0-slim
-MAINTAINER Kota Nonaka <kota.kaicho@gmail.com>
+FROM node:24.4.0-slim
 
 ENV PORT 3000
 
@@ -8,8 +7,7 @@ RUN npm i -g http-server
 WORKDIR /app
 
 ADD package.json .
-ADD package-lock.json .
-RUN npm i
+RUN npm install
 
 ADD . .
 RUN npm run build
